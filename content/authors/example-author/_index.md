@@ -27,11 +27,13 @@ Aliquam pretium diam eget leo feugiat finibus. Donec malesuada commodo ipsum. Ae
 ## Details  
 
 Nunc pellentesque vitae:
+
 - Morbi accumsan nibh efficitur diam molestie, non dignissim diam facilisis.
 - Donec dignissim leo in mollis faucibus.
 - Donec blandit lacus a pellentesque fermentum.
 
 Donec mollis sollicitudin:
+
 - Nunc dictum purus ornare purus consectetur, eu pellentesque massa ullamcorper.
 - Aliquam eu leo vitae justo aliquam tincidunt.
 - Fusce non massa id augue interdum feugiat sed et nulla.
