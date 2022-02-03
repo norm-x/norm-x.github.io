@@ -1,8 +1,8 @@
 ---
-title: Experience
+title: 博文
 draft: false
 experiences:
-  - title: Example Role 1
+  - title: 标题 1
     organization:
       name: Example Organization 1
       url: https://example.org
